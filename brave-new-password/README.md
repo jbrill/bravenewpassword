@@ -1,4 +1,4 @@
-# brave-new-passport
+# brave-new-password
 
 ## Project setup
 ```
